@@ -1,3 +1,4 @@
+
 extends(src='layout.sgr')
   block(name='content')
     h2 Hello World!
@@ -27,3 +28,5 @@ extends(src='layout.sgr')
     p Customize your settings by editing the
       a(href="https://spike.readme.io/docs/appjs") app.js
       |  file or simply start by editing this view
+
+    p this is an update on Netlify
